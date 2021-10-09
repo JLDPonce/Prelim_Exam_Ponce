@@ -1,0 +1,4 @@
+blinker==1.4
+pyats==20.5
+pyserial==3.4
+psutil==5.5.1
